@@ -2,6 +2,9 @@
 
 ## Me gustó mucho realizar esta práctica, ya que puse en práctica nuevas cosas como el hover, los display, así como los selectores y cómo podemos implementarlos dentro del HTML.
 
+# ACTUALIZACION 2 clase 
+## Agregue lo visto en la segunda clase que fue lo de Box Model 
+
 ### UN PASO MÁS
 "Cada línea de código nos lleva un paso más cerca de alcanzar nuestros objetivos."
 

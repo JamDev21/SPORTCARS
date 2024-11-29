@@ -102,3 +102,36 @@ header{
     border-radius: 20px;
     margin: -50px;
 }
+/* Estilos para box model */
+.h1-box-model{
+    background-color: #f97316;
+    font-family: fuenteTitulos;
+    text-align: center;
+    font-size: 35px;
+    border: solid rgb(13, 153, 255);
+    border-radius: 30px;
+    padding: 15px;
+    margin: 0px 0px 30px;
+}
+.section_box-model{
+    display: flex;
+    background-color: aliceblue;
+    width: 1700px;
+    height: 600px;
+    margin: 0 auto;
+    border-radius: 37px;
+}
+.img-carrito{
+    width: auto;
+    height: 100%;
+}
+#texto{
+    /* margin: 120px; */
+    padding: 200px 350px 200px 80px ;
+    font-size: 20px;
+}
+#texto:hover{
+    /* margin: 120px; */
+    padding: 200px 350px 200px 80px ;
+    font-size: 25px;
+}

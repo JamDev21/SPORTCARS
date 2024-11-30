@@ -14,6 +14,10 @@ body{
     font-family: fuenteTitulos;
     src: url("fonts/Holen\ Vintage.otf");
 }
+@font-face {
+    font-family: fuenteConfiguradorLAMBO;
+    src: url("fonts/Doctor\ Glitch.otf");
+}
 
 header{
     display: flex;
@@ -111,7 +115,7 @@ header{
     border: solid rgb(13, 153, 255);
     border-radius: 30px;
     padding: 15px;
-    margin: 0px 0px 30px;
+    margin: 30px 0px 30px;
 }
 .section_box-model{
     display: flex;
@@ -134,4 +138,26 @@ header{
     /* margin: 120px; */
     padding: 200px 350px 200px 80px ;
     font-size: 25px;
+}
+
+
+#configurador {
+   font-family: fuenteConfiguradorLAMBO;
+   font-size: 30px;
+   color: black;
+   background-color: white;
+   width: 2100px;
+   margin: 0 auto;
+   border-radius: 70px;
+   padding: auto;
+   display: flex;
+   padding: 50px 60px 50px 200px;
+   align-items: center;
+}
+.texto-configurador{
+    color: red !important;
+}
+#texto-temerario{
+    font-size: 130px;
+    
 }

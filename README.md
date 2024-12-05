@@ -9,7 +9,7 @@
 ## Agregue lo visto y abordado en la tercera clase correspondiente a herencia, especificidad y fuentes
 
 # ACTUALIZACION 4 clase 
-## Agregue lo visto y abordado en la cuarta clase correspondiente a flexbos, position, y ocupe position: fixed; para colocar un boton de atención a clientes 
+## Agregue lo visto y abordado en la cuarta clase correspondiente a flexbox, position, y ocupe position: fixed; para colocar un boton de atención a clientes 
 
 ### UN PASO MÁS
 "Cada línea de código nos lleva un paso más cerca de alcanzar nuestros objetivos."

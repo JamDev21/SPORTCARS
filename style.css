@@ -161,3 +161,38 @@ header{
     font-size: 130px;
     
 }
+
+.section_ferrari{
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    width: 1800px;
+    border-radius: 60px;
+    align-items: center;
+    margin: 0 auto;
+    height: 700px;
+    box-shadow: 10px 20px 20px 20px black;    
+}
+
+#parrafo_ferrari{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 35px;
+}
+
+#letrero_ferrari{
+    position: relative;
+    bottom: 150px;
+}
+
+.ayuda{
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        height: 150px;
+        width: 150px; 
+        color: white;
+        text-align: center;
+        padding: 10px 30px 100px;
+}
